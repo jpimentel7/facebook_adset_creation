@@ -1,0 +1,14 @@
+{
+    "name": "jp/facebook_adset_creation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Javier",
+            "email": "javier@softwareandwebstuff.com"
+        }
+    ],
+    "require": {
+        "facebook/php-ads-sdk": "^2.11",
+        "nesbot/carbon": "^1.27"
+    }
+}
